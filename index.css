@@ -23,6 +23,9 @@
 .text-desaturated{
     color: hsl(224, 23%, 55%);
 }
+.bg-pale{
+    background-color: hsl(225, 100%, 94%);
+}
 @font-face {
     font-family: RedHatDisplay;
     src: url("fonts/RedHatDisplay-VariableFont_wght.ttf");
