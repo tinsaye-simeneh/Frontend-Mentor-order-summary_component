@@ -32,6 +32,20 @@
 .music-icon{
     margin-left: 40%;
 }
+.changebtn{
+    text-decoration: underline;
+}
+.changebtn:hover{
+    color: hsl(224, 23%, 55%);
+    text-decoration: none;
+}
+.proceedbtn:hover{
+    background-color:hsl(224, 23%, 55%);
+}
+.cancelbtn:hover{
+    cursor: pointer;
+    color: hsl(223, 47%, 23%); 
+}
 @font-face {
     font-family: RedHatDisplay;
     src: url("fonts/RedHatDisplay-VariableFont_wght.ttf");
