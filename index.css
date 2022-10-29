@@ -29,6 +29,9 @@
 .container{
     margin-top:4%;
 }
+.music-icon{
+    margin-left: 40%;
+}
 @font-face {
     font-family: RedHatDisplay;
     src: url("fonts/RedHatDisplay-VariableFont_wght.ttf");
