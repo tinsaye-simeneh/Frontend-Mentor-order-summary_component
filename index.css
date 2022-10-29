@@ -14,7 +14,7 @@
 .text-brightblue{
     color: hsl(245, 75%, 52%);
 }
-.text-paleblue{
+.text-pale{
     color: hsl(225, 100%, 94%);
 }
 .text-darkblue{
@@ -29,4 +29,13 @@
   }
   .RedHatDisplay {
     font-family: RedHatDisplay;
+  }
+  .row{
+    width: 40%;
+  }
+
+  @media screen and (max-width: 768px) {
+    .row{
+      width: 100%;
+    }
   }
