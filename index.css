@@ -18,7 +18,7 @@
     color: hsl(225, 100%, 94%);
 }
 .text-darkblue{
-    color: hsl(245, 75%, 52%);
+    color: hsl(223, 47%, 23%);
 }
 .text-desaturated{
     color: hsl(224, 23%, 55%);
@@ -27,6 +27,6 @@
     font-family: RedHatDisplay;
     src: url("fonts/RedHatDisplay-VariableFont_wght.ttf");
   }
-  .outfit {
+  .RedHatDisplay {
     font-family: RedHatDisplay;
   }
