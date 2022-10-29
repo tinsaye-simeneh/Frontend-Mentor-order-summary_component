@@ -26,6 +26,9 @@
 .bg-pale{
     background-color: hsl(225, 100%, 94%);
 }
+.container{
+    margin-top:4%;
+}
 @font-face {
     font-family: RedHatDisplay;
     src: url("fonts/RedHatDisplay-VariableFont_wght.ttf");
