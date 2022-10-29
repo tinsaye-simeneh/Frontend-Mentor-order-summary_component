@@ -26,8 +26,8 @@ Users should be able to:
 ![](./screenshot.png)
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/responsive-expense-chart-component-UAHQedYdzp](https://www.frontendmentor.io/solutions/responsive-expense-chart-component-UAHQedYdzp)
-- Live Site URL: [https://fm-expenses-chart.vercel.app/](https://fm-expenses-chart.vercel.app/)
+- Solution URL: []()
+- Live Site URL: []()
 
 ## My process
 
