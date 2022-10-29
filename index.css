@@ -5,3 +5,28 @@
 .attribution a {
   color: hsl(228, 45%, 44%);
 }
+.bg-verypaleblue{
+    background-color: hsl(225, 100%, 98%);
+}
+.bg-brightblue{
+    background-color: hsl(245, 75%, 52%);
+}
+.text-brightblue{
+    color: hsl(245, 75%, 52%);
+}
+.text-paleblue{
+    color: hsl(225, 100%, 94%);
+}
+.text-darkblue{
+    color: hsl(245, 75%, 52%);
+}
+.text-desaturated{
+    color: hsl(224, 23%, 55%);
+}
+@font-face {
+    font-family: RedHatDisplay;
+    src: url("fonts/RedHatDisplay-VariableFont_wght.ttf");
+  }
+  .outfit {
+    font-family: RedHatDisplay;
+  }
