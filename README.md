@@ -1,6 +1,6 @@
 # Frontend Mentor - Ordinary Summary card component solution
 
-This is a solution to the Ordinary Summary card component. Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+- This is a solution to the Ordinary Summary card component. Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
